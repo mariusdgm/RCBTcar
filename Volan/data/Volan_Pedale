@@ -1,0 +1,3 @@
+BTCar controller
+X_axis	volan	3	SLIDER	X Axis	0	1.0	0.1
+Y_axis	pedale	3	SLIDER	Y Axis	0	1.0	0.1
